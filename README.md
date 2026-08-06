@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="IngGreisyMonges.png" alt="Ingeniero Greisy Monges" width="100px">
+<br>
+
 # ¡Hola! Soy Greisy Monges 👋
 ### Senior Java Backend Developer | Software Engineer
 
