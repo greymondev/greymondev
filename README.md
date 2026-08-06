@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="IngGreisyMonges.png" alt="Ingeniero Greisy Monges" width="100px">
+<img src="IngGreisyMonges.png" alt="Ingeniero Greisy Monges" width="1100px">
 <br>
 
 # ¡Hola! Soy Greisy Monges 👋
